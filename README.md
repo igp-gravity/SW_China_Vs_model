@@ -15,3 +15,5 @@ LON LAT
 H(KM) VP(KM/S) VS(KM/S) RHO(GM/CC)
 
 (P velocity and density are computed with the empirical relationship given by Brocher [2005].)
+
+Note: Station HLT and KMI have same location (possibly due to different time in which they are deployed) but slightly different RF and ZH ratio measurements. Therefore, the inversion results have a very slight difference in shallow depth. 
